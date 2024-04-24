@@ -5,7 +5,7 @@ If you’re starting in JavaScript, maybe you haven’t heard of .map(), .reduce
 ---
 
 ## **Map Method**
-#### The map method is used to create a new array with the result of a callback function called on each element in the original array.<br> The callback function takes one argument, the current element, and returns the new value for that element
+### The map method is used to create a new array with the result of a callback function called on each element in the original array.<br> The callback function takes one argument, the current element, and returns the new value for that element
 
 
 ## **Filter Method**
